@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there! 👋 I'm Ihor Ivanchenko
 
-<!--
-**s1lentOf/s1lentOf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm an 18-year-old Computer Science student passionate about coding, technology, and learning new skills.  
 
-Here are some ideas to get you started:
+## 🛠 Skills  
+- **Programming Languages**: Java, Swift, C 
+- **Databases**: MySQL  
+- **Other Tools**: Git, SwiftUI  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning  
+- Advanced Algorithms and Data Structures
+- iOS development
+
+## 💡 Projects  
+Here are some projects I’ve been working on:  
+- **ToDo App**: It was a final project for the CS50 course.   
+- **'UNO' Game**: A great 2-players card game.  
+
+📂 Check out my repositories to see more of my work!  
+
+## 📫 Let's Connect!  
+- [LinkedIn](https://www.linkedin.com/in/ihor-ivanchenko-593a9330a/)  
+- [Twitter](https://x.com/Ivanchenko1011)  
+- [Email](igoriva2014@gmail.com)  
+
+Thanks for stopping by! 🌟
