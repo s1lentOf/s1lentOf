@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Ihor Ivanchenko
+# Hi there! 👋  I'm Ihor Ivanchenko
 
 🎓 I'm an 18-year-old Computer Science student passionate about coding, technology, and learning new skills.  
 
